@@ -1,0 +1,7 @@
+# Build a lookup table of constituencies
+#    wd sparql constituencies-sparql  > tee constituencies.json
+
+SELECT ?item ?itemLabel WHERE {
+  ?item wdt:P31 wd:Q6895539.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "az". }
+}

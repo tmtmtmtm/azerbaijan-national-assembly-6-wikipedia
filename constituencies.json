@@ -1,0 +1,752 @@
+[
+  {
+    "item": {
+      "value": "Q12835231",
+      "label": "83 saylı Ağcabədi-Ağdam seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835232",
+      "label": "84 saylı Füzuli seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835233",
+      "label": "85 saylı Şamaxı seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835234",
+      "label": "86 saylı İsmayıllı seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835235",
+      "label": "89 saylı Göyçay-Ağdaş seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835236",
+      "label": "87 saylı Ağsu-İsmayıllı seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835237",
+      "label": "88 saylı Göyçay seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835241",
+      "label": "8 saylı Binəqədi birinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835244",
+      "label": "91 saylı Ucar seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835245",
+      "label": "90 saylı Ağdaş seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835247",
+      "label": "94 saylı Bərdə kənd seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835248",
+      "label": "92 saylı Zərdab-Ucar seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835249",
+      "label": "93 saylı Bərdə şəhər seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835250",
+      "label": "95 saylı Tərtər seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835251",
+      "label": "98 saylı Şəmkir şəhər seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835252",
+      "label": "97 saylı Goranboy-Ağdam-Tərtər seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835253",
+      "label": "96 saylı Goranboy-Naftalan seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835258",
+      "label": "99 saylı Şəmkir kənd seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q16415567",
+      "label": "9 saylı Binəqədi ikinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q16415572",
+      "label": "40 saylı Kəpəz ikinci (Gəncə) seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q16415577",
+      "label": "41 saylı Sumqayıt birinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q16415581",
+      "label": "62 saylı Saatlı seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q16415586",
+      "label": "64 saylı Sabirabad ikinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q16415590",
+      "label": "102 saylı Samux-Şəmkir seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q16415593",
+      "label": "104 saylı Gədəbəy-Tovuz seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835023",
+      "label": "100 saylı Şəmkir-Daşkəsən seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835024",
+      "label": "101 saylı Göygöl-Daşkəsən seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835029",
+      "label": "103 saylı Gədəbəy seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835030",
+      "label": "105 saylı Tovuz seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835032",
+      "label": "106 saylı Tovuz-Qazax-Ağstafa seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835033",
+      "label": "107 saylı Qazax seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835034",
+      "label": "108 saylı Ağstafa seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835035",
+      "label": "109 saylı Balakən seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835037",
+      "label": "10 saylı Binəqədi üçüncü seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835038",
+      "label": "111 saylı Zaqatala-Balakən seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835039",
+      "label": "112 saylı Qax seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835040",
+      "label": "110 saylı Zaqatala seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835042",
+      "label": "115 saylı Şəki kənd ikinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835043",
+      "label": "113 saylı Şəki şəhər seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835044",
+      "label": "114 saylı Şəki kənd birinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835045",
+      "label": "116 saylı Qəbələ seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835046",
+      "label": "118 saylı Ağdam şəhər seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835047",
+      "label": "119 saylı Ağdam kənd seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835048",
+      "label": "117 saylı Oğuz-Qəbələ seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835049",
+      "label": "120 saylı Cəbrayıl-Qubadlı seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835050",
+      "label": "11 saylı Qaradağ seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835051",
+      "label": "121 saylı Laçın seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835052",
+      "label": "122 saylı Xankəndi seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835053",
+      "label": "123 saylı Kəlbəcər seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835054",
+      "label": "124 saylı Şuşa-Füzuli-Xocalı-Xocavənd seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835055",
+      "label": "125 saylı Zəngilan-Qubadlı seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835056",
+      "label": "12 saylı Qaradağ-Binəqədi-Yasamal seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835059",
+      "label": "13 saylı Xəzər birinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835062",
+      "label": "14 saylı Xəzər ikinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835064",
+      "label": "15 saylı Yasamal birinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835068",
+      "label": "16 saylı Yasamal ikinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835071",
+      "label": "17 saylı Yasamal üçüncü seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835076",
+      "label": "18 saylı Nərimanov-Nizami seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835100",
+      "label": "1 saylı Şərur-Sədərək seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835104",
+      "label": "19 saylı Nərimanov birinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835110",
+      "label": "20 saylı Nərimanov ikinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835112",
+      "label": "22 saylı Nəsimi ikinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835113",
+      "label": "21 saylı Nəsimi birinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835114",
+      "label": "23 saylı Nəsimi-Səbail seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835115",
+      "label": "24 saylı Nizami birinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835118",
+      "label": "25 saylı Nizami ikinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835119",
+      "label": "26 saylı Sabunçu birinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835123",
+      "label": "27 saylı Sabunçu ikinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835124",
+      "label": "28 saylı Sabunçu üçüncü seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835128",
+      "label": "29 saylı Səbail seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835131",
+      "label": "2 saylı Şərur seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835133",
+      "label": "31 saylı Suraxanı ikinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835134",
+      "label": "30 saylı Suraxanı birinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835135",
+      "label": "32 saylı Suraxanı üçüncü seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835136",
+      "label": "33 saylı Xətai birinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835137",
+      "label": "35 saylı Xətai üçüncü seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835138",
+      "label": "34 saylı Xətai ikinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835139",
+      "label": "36 saylı Xətai dördüncü seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835143",
+      "label": "37 saylı Nizami birinci (Gəncə) seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835144",
+      "label": "38 saylı Nizami ikinci (Gəncə) seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835149",
+      "label": "3 saylı Babək-Kəngərli-Naxçıvan seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835152",
+      "label": "39 saylı Kəpəz birinci (Gəncə) seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835155",
+      "label": "43 saylı Sumqayıt üçüncü seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835156",
+      "label": "42 saylı Sumqayıt ikinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835158",
+      "label": "45 saylı Abşeron seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835159",
+      "label": "44 saylı Sumqayıt-Abşeron seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835160",
+      "label": "47 saylı Mingəçevir seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835161",
+      "label": "46 saylı Şirvan seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835163",
+      "label": "48 saylı Yevlax seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835164",
+      "label": "49 saylı Yevlax-Mingəçevir seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835166",
+      "label": "4 saylı Naxçıvan şəhər seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835170",
+      "label": "50 saylı Qobustan-Xızı-Quba seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835173",
+      "label": "52 saylı Quba seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835174",
+      "label": "51 saylı Qusar seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835175",
+      "label": "53 saylı Quba-Qusar seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835179",
+      "label": "56 saylı Xaçmaz kənd seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835180",
+      "label": "54 saylı Şabran-Siyəzən seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835182",
+      "label": "55 saylı Xaçmaz şəhər seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835185",
+      "label": "5 saylı Şahbuz-Babək seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835186",
+      "label": "59 saylı Salyan seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835188",
+      "label": "58 saylı Hacıqabul-Kürdəmir seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835189",
+      "label": "57 saylı Kürdəmir seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835190",
+      "label": "61 saylı Neftçala seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835194",
+      "label": "60 saylı Salyan-Neftçala seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835195",
+      "label": "65 saylı Saatlı-Sabirabad-Kürdəmir seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835196",
+      "label": "63 saylı Sabirabad birinci seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835199",
+      "label": "66 saylı Biləsuvar seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835200",
+      "label": "67 saylı Cəlilabad şəhər seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835202",
+      "label": "68 saylı Cəlilabad kənd seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835205",
+      "label": "6 saylı Culfa-Babək seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835208",
+      "label": "70 saylı Masallı şəhər seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835209",
+      "label": "69 saylı Cəlilabad-Masallı-Biləsuvar seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835211",
+      "label": "71 saylı Masallı kənd seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835212",
+      "label": "73 saylı Lənkəran şəhər seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835213",
+      "label": "72 saylı Yardımlı-Masallı seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835214",
+      "label": "74 saylı Lənkəran kənd seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835215",
+      "label": "77 saylı Astara seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835217",
+      "label": "75 saylı Lənkəran-Masallı seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835219",
+      "label": "76 saylı Lənkəran-Astara seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835220",
+      "label": "7 saylı Ordubad-Culfa seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835221",
+      "label": "78 saylı Lerik-Lənkəran seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835224",
+      "label": "79 saylı İmişli seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835228",
+      "label": "81 saylı Beyləqan seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835229",
+      "label": "82 saylı Ağcabədi seçki dairəsi"
+    }
+  },
+  {
+    "item": {
+      "value": "Q12835230",
+      "label": "80 saylı İmişli-Beyləqan seçki dairəsi"
+    }
+  }
+]
